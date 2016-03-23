@@ -1,0 +1,2 @@
+# 49-Books
+Capstone project. Prototype mobile web application for a bookstore that the owner can use for adding, deleting, and editing items in its inventory. The app will allow editing the books information such as the author, ISBN, and the respective price. This same app will provide a user friendly browsing interface that will enable existing customers to browse and reserve books for pick up that are in the inventory.
